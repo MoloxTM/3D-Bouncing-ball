@@ -1,6 +1,6 @@
 # 3D bouncing ball
 
-Ce projet est un programme amélioré basé sur un exemple de projet processing. Nous avons choisi d’ajouter à cet exemple une troisième dimension et la possibilité de visualiser le résultat grâce à une caméra manipulable. Nous avons pris comme base un exemple disponible sur le site web de Processing :  [*Non-orthogonal Collision with Multiple Ground Segments](https://processing.org/examples/reflection2.html).*
+Ce projet est un programme amélioré basé sur un exemple de projet processing. Nous avons choisi d’ajouter à cet exemple une troisième dimension et la possibilité de visualiser le résultat grâce à une caméra manipulable. Nous avons pris comme base un exemple disponible sur le site web de Processing :  [Non-orthogonal Collision with Multiple Ground Segments](https://processing.org/examples/reflection2.html).
 
 # To begin
 
@@ -8,7 +8,7 @@ Ce projet est un programme amélioré basé sur un exemple de projet processing.
 
 ## Requirement
 
-Make sure you have Processing installed on your machine, we use the basic version of Processing and not the one intended for development in Python. You installed Processing from their site : [*Processing.org/download*](https://processing.org/download)
+Make sure you have Processing installed on your machine, we use the basic version of Processing and not the one intended for development in Python. You installed Processing from their site : [Processing.org/download](https://processing.org/download)
 
 ## Installation
 
